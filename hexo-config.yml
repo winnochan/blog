@@ -80,5 +80,7 @@ theme: next
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
-  type: git
+- type: git
   repo: git@github.com:winnochan/winnochan.github.io.git
+- type: heroku
+  repo: https://git.heroku.com/winnochan.git
