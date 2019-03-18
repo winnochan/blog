@@ -221,7 +221,7 @@ avatar:
   # In theme directory (source/images): /images/avatar.gif
   # In site directory (source/uploads): /uploads/avatar.gif
   # You can also use other linking images.
-  url: /images/gravatar.png
+  url: https://avatars0.githubusercontent.com/u/8348908?s=400&u=c18401ef6a89ce6dc527eb01eaaa08b849a8ce9a&v=4
   # If true, the avatar would be dispalyed in circle.
   rounded: true
   # The value of opacity should be choose from 0 to 1 to set the opacity of the avatar.
@@ -404,7 +404,7 @@ custom_scrollbar: false
 # Do not support Scheme Mist currently.
 custom_logo:
   enable: true
-  image: /images/gravatar.png
+  # image: https://avatars0.githubusercontent.com/u/8348908?s=400&u=c18401ef6a89ce6dc527eb01eaaa08b849a8ce9a&v=4
 
 # Code Highlight theme
 # Available values: normal | night | night eighties | night blue | night bright
