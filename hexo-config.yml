@@ -10,7 +10,7 @@ keywords: WinnoChan
 author: Winno Chan
 language:
   - en
-  - cn
+  - zh-cn
 timezone: Asia/Shanghai
 
 # URL
@@ -19,7 +19,7 @@ url: http://winnochan.github.io
 root: /
 permalink: :lang/:year/:month/:day/:title.html
 permalink_defaults:
-  lang: cn
+  lang: zh-cn
 
 # Directory
 source_dir: source
